@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Paul Chibueze! 👋
 
-<!--
-**chibuezedev/chibuezedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm a software Engineer passionate about [your interests].
+- 💼 I'm currently working at [your current job].
+- 📚 I enjoy learning and sharing knowledge through open-source projects.
+- 🚀 Check out my latest project: [Project Name](link to project).
 
-Here are some ideas to get you started:
+### Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/paul-chibueze/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/chibuezedev)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://yourwebsite.com)
+
+### My GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chibuezedev&show_icons=true&theme=radical)
