@@ -1,13 +1,10 @@
 <p align="center">
 <a href="https://github.com/chibuezedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Researcher+%7C+BSc+Student+%7C+Software+Engineer;AI+%7C+Bots+%7C+AR/VR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software+Engineer+%7C+%7C+Researcher;AI+%7C+Bots+%7C+AR/VR+%7C+Cloud" alt="Typing SVG" />
 </a>
 <br/>
-
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
-</a>  
-<a href="https://gkos.tech/Resume.pdf">
+ 
+<a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/paul-chibueze/">
@@ -25,13 +22,16 @@
 <a href="https://wakatime.com/@0957be2e-3a2d-403f-b8bf-8035cca3d762">
   <img src="https://wakatime.com/badge/user/0957be2e-3a2d-403f-b8bf-8035cca3d762.svg" alt="Total time coded since Apr 30 2022" />
 </a>
+
+<br/>
+<a href="https://github.com/chibuezedev">
+    <img src="https://github-stats-alpha.vercel.app/api?username=chibuezedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 </p>
 
 
-- 🌱 I'm a software Engineer passionate about innovate ideals.
-- 💼 I'm currently working at [your current job].
+- 🌱 I'm a software Engineer passionate about innovative ideals.
 - 📚 I enjoy learning and sharing knowledge through open-source projects.
-- 🚀 Check out my latest project: [Project Name](link to project).
 
 
 <details>
