@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/chibuezedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software+Engineer+%7C+%7C+Researcher;AI+%7C+Bots+%7C+AR/VR+%7C+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software+Engineer+%7C+Public+Speaker;AI+%7C+Bots+%7C+AR/VR+%7C+Cloud" alt="Typing SVG" />
 </a>
 <br/>
  
@@ -30,7 +30,7 @@
 </p>
 
 
-- 🌱 I'm a software Engineer passionate about innovative ideals.
+- 🌱 I'm a Software Engineer passionate about innovative ideals.
 - 📚 I enjoy learning and sharing knowledge through open-source projects.
 
 
