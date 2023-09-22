@@ -17,7 +17,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/chibuezedev)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://yourwebsite.com)
 
-<div>
+<details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
@@ -27,4 +27,4 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chibuezedev&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chibuezedev&theme=dracula)
 
-</div>
+</details>
