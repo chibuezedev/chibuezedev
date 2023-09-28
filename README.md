@@ -30,7 +30,7 @@
 </p>
 
 
-- 🌱 I'm a Software Engineer passionate about innovative ideals.
+- 🌱 I'm a Software Engineer passionate about innovative ideals and solutions through technology.
 - 📚 I enjoy learning and sharing knowledge through open-source projects.
 
 
