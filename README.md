@@ -30,8 +30,8 @@
 </p>
 
 
-- 🌱 I'm a Software Engineer passionate about innovative ideals and solutions through technology.
-- 📚 I enjoy learning and sharing knowledge through open-source projects.
+- 🌱 Passionate Software Engineer | Innovator | Tech Enthusiast
+- 📚 Open-Source Contributor | Lifelong Learner
 
 
 <details>
