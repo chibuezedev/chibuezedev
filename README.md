@@ -28,7 +28,8 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=chibuezedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <br />
-<a href="https://github.com/chibuezedev"><img src="https://komarev.com/ghpvc/?username=notha99y&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
+<a href="https://github.com/chibuezedev">
+<img src="https://komarev.com/ghpvc/?username=chibuezedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
 </p>
 
 
