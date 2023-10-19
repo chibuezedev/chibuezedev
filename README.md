@@ -27,9 +27,8 @@
 <a href="https://github.com/chibuezedev">
     <img src="https://github-stats-alpha.vercel.app/api?username=chibuezedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-<br />
-<a href="https://github.com/chibuezedev">
-<img src="https://komarev.com/ghpvc/?username=chibuezedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
+
+
 </p>
 
 
@@ -49,3 +48,8 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chibuezedev&theme=dracula)
 
 </details>
+
+<p>
+ <a href="https://github.com/chibuezedev">
+<img src="https://komarev.com/ghpvc/?username=chibuezedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
+</p>
