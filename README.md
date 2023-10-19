@@ -32,7 +32,8 @@
 
 - 🌱 Passionate Software Engineer | Innovator | Tech Enthusiast
 - 📚 Open-Source Contributor | Lifelong Learner
-
+<a href="https://github.com/chibuezedev"><img src="https://komarev.com/ghpvc/?username=notha99y&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
+<a href="https://github.com/chibuezedev?tab=followers"><img src="https://img.shields.io/github/followers/chibuezedev"></a>
 
 <details>
 <summary>📈 Stats</summary>
