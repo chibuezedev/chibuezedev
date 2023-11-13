@@ -34,6 +34,7 @@
 
 - 🌱 Passionate Software Engineer | Innovator | Tech Enthusiast
 - 📚 Open-Source Contributor | Lifelong Learner
+- 😜 Fun Fact - I can convince the most difficult person in the room. | I can't do anything if my stomach is empty.
 
 
 
