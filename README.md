@@ -33,7 +33,7 @@
 
 
 - 🌱 Passionate Software Engineer | Innovator | Tech Enthusiast
-- 📚 Open-Source Contributor | Lifelong Learner
+- 📚 Lifelong Learner | MedTech Tech Enthusiast
 
 
 
