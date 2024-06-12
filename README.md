@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/chibuezedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software+Engineer+%7C+Public+Speaker;AI+%7C+Bots+%7C+AR/VR+%7C+Cloud+%7C+Web+%7C+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software+Engineer+%7C+Public+Speaker;AI+%7C+Bots+%7C+AR/VR+%7C+Cloud+%7C+Web+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 <br/>
  
@@ -32,8 +32,10 @@
 </p>
 
 
-- 🌱 Passionate Software Engineer | Innovator | Tech Enthusiast
-- 📚 Lifelong Learner | MedTech Tech Enthusiast
+- Passionate Software and Machine Learning Enginner.
+- BSc in Computer Science, PhD in Machine Learning (in view)
+- Researcher in areas of Machine Learning & AI, AGI, AR/VR and Cloud Computing.
+- Interested in areas of Computer Vision, Object detection, Medical OCR, Self Driving Cars, Robots and Smart Cities.
 
 
 
