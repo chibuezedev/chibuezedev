@@ -32,10 +32,10 @@
 </p>
 
 
-- Passionate Software and Machine Learning Enginner.
-- BSc in Computer Science, PhD in Machine Learning (in view)
-- Researcher in areas of Machine Learning & AI, AGI, AR/VR and Cloud Computing.
-- Interested in areas of Computer Vision, Object detection, Medical OCR, Self Driving Cars, Robots and Smart Cities.
+Passionate Software and Machine Learning Engineer.
+BSc in Computer Science, PhD candidate in Machine Learning.
+Researcher in Machine Learning, AI, AGI, AR/VR, and Cloud Computing.
+Interests: Computer Vision, Object Detection, Medical OCR, Self-Driving Cars, Robotics, and Smart Cities
 
 
 
