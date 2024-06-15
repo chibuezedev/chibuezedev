@@ -2,8 +2,12 @@
 <a href="https://github.com/chibuezedev">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software+Engineer+%7C+Public+Speaker;AI+%7C+Bots+%7C+AR/VR+%7C+Cloud+%7C+Web+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
-<br/>
- 
+    
+<br />
+<br />
+
+---
+
 <a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
