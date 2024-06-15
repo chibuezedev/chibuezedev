@@ -34,8 +34,6 @@
 - BSc in Computer Science
 - Software and Machine Learning Engineer.
 - Researcher in Machine Learning, AI, Web, AR/VR, and Cloud Computing.
-- Interests: Computer Vision, Object Detection, Medical OCR, , Web, and Smart Cities (IOTS)
-
 
 
 <details>
