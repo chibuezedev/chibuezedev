@@ -70,13 +70,6 @@
 <br />
 
 
-- BSc in Computer Science
-- Software and Machine Learning Engineer.
-- Researcher in Machine Learning, AI, Web, AR/VR, and Cloud Computing.
-
-<br />
-<br /> 
-
 <details>
 <summary>📈 Stats</summary>
 <br>
