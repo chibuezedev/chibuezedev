@@ -37,6 +37,28 @@ I enjoy collaborating across teams, mentoring engineers, and taking ownership of
 - Exploring cost-efficient ML deployment for batch and streaming perception workloads
 
 ---
+## Core Expertise
+
+**Languages**
+- C++, Python, Rust, TypeScript, JavaScript 
+
+**Machine Learning & CV**
+- PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib
+
+**Backend & Systems**
+- Python, Rust, Node.js, TypeScript, JavaScript 
+- FastAPI, Django, NestJS, Express
+
+**Frontend**
+- NextJS, React, HTML, CSS
+
+**Infrastructure & DevOps**
+- Docker, Kubernetes, AWS, GCP, AZURE, Linux, CI/CD
+
+**Databases**
+- MongoDB, MySQL, Firebase, PostgreSQL
+
+---
 ### Public Profiles:
 
 <a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
