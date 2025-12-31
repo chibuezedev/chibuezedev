@@ -7,6 +7,22 @@
 <br />
 
 ---
+## About Me
+
+I’m a Software & Machine Learning Engineer with 4+ years of experience building production-grade, data-driven systems — including ML pipelines and computer vision models to scalable backend services and automation tools.
+
+I specialize in:
+- Enterprise Software development (problems → product)
+- Turning machine learning research into real products
+- Designing reliable, auditable backend systems
+- Building cost-efficient ML infrastructure and automation pipelines
+- Working at the intersection of ML, systems engineering, and product
+
+I’ve led and contributed to projects involving computer vision (YOLO-based systems), AI agents, workflow automation, real-time media processing, web, mobile, developer tooling, and cloud-native backends. I care deeply about correctness, scalability, and long-term maintainability.
+
+I enjoy collaborating across teams, mentoring engineers, and taking ownership of complex technical problems from idea → deployment.
+
+---
 ### Public Profiles:
 
 <a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
