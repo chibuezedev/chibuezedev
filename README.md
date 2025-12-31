@@ -25,16 +25,16 @@ I enjoy collaborating across teams, mentoring engineers, and taking ownership of
 ---
 ## What I’m Working On
 
-- Developing **Mashintoch**, a computer vision platform focused on machine perception and visual intelligence
-- Building a video-based content moderation system for social media platform (Pozse), using computer vision for frame-level analysis and decision making
-- Building video and image processing infrastructure for vision-driven systems, including:
-  - Direct video ingestion from URLs
-  - Frame extraction at sub-second precision
-  - On-the-fly resizing to optimize storage and throughput
-- Designing computer vision–ready pipelines with rich metadata extraction (FPS, duration, resolution)
-- Implementing media systems with retries, logging, summaries, and interactive debugging tools
-- Applying this infrastructure to real-world use cases, including content moderation and real-time video analysis
-- Exploring cost-efficient ML deployment for batch and streaming perception workloads
+1. Developing **Mashintoch**, a computer vision platform focused on machine perception and visual intelligence
+2. Building a video-based content moderation system for social media platform (Pozse), using computer vision for frame-level analysis and decision making
+3. Building video and image processing infrastructure for vision-driven systems, including:
+   a. Direct video ingestion from URLs
+   b. Frame extraction at sub-second precision
+   c. On-the-fly resizing to optimize storage and throughput
+4. Designing computer vision–ready pipelines with rich metadata extraction (FPS, duration, resolution)
+5. Implementing media systems with retries, logging, summaries, and interactive debugging tools
+6. Applying this infrastructure to real-world use cases, including content moderation and real-time video analysis
+7. Exploring cost-efficient ML deployment for batch and streaming perception workloads. etc.
 
 ---
 ## Core Expertise
