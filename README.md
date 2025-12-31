@@ -43,7 +43,7 @@ I enjoy collaborating across teams, mentoring engineers, and taking ownership of
 - C++, Python, Rust, TypeScript, JavaScript 
 
 **Machine Learning & CV**
-- PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib
+- PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib, Colab, Hugginface
 
 **Backend & Systems**
 - Python, Rust, Node.js, TypeScript, JavaScript 
