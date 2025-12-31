@@ -36,24 +36,17 @@ I enjoy collaborating across teams, mentoring engineers, and taking ownership of
 ---
 ## Core Expertise
 
-**Languages**
-- C++, Python, Rust, TypeScript, JavaScript 
+**Languages**: C++, Python, Rust, TypeScript, JavaScript 
 
-**Machine Learning & CV**
-- PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib, Colab, Hugginface
+**Machine Learning & CV**: PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib, Colab, Hugginface
 
-**Backend & Systems**
-- Python, Rust, Node.js, TypeScript, JavaScript 
-- FastAPI, Django, NestJS, Express
+**Backend & Systems**: Python, Rust, Node.js, TypeScript, JavaScript, FastAPI, Django, NestJS, Express
 
-**Frontend**
-- NextJS, React, HTML, CSS
+**Frontend**: NextJS, React, HTML, CSS
 
-**Infrastructure & DevOps**
-- Docker, Kubernetes, AWS, GCP, AZURE, Linux, CI/CD
+**Infrastructure & DevOps**: Docker, Kubernetes, AWS, GCP, AZURE, Linux, CI/CD
 
-**Databases**
-- MongoDB, MySQL, Firebase, PostgreSQL
+**Databases**: MongoDB, MySQL, Firebase, PostgreSQL
 
 ---
 ### Public Profiles:
