@@ -9,7 +9,7 @@
 ---
 ## About Me
 
-I’m a Software & Machine Learning Engineer with 4+ years of experience building production-grade, data-driven systems — including ML pipelines and computer vision models to scalable backend services and automation tools.
+I’m a Software & Machine Learning Engineer with 4+ years of experience building production-grade, data-driven systems, including scalable backend services, cloud native tools, ML pipelines and computer vision models, and automation tools.
 
 I specialize in:
 - Enterprise Software development (problems → product)
