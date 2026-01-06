@@ -18,21 +18,6 @@ I specialize in:
 - Building cost-efficient ML infrastructure and automation pipelines
 - Working at the intersection of ML, systems engineering, and product
 
-I’ve led and contributed to projects involving computer vision, LLM, AI agents, workflow automation, real-time media processing, web, mobile, developer tooling, and cloud-native backends. I care deeply about correctness, scalability, and long-term maintainability.
-
-I enjoy collaborating across teams, mentoring engineers, and taking ownership of complex technical problems from idea → deployment.
-
----
-## What I’m Working On
-
-- Developing **Mashintoch**, a computer vision platform focused on machine perception and visual intelligence
-- Building a video-based content moderation system for social media platform (Pozse),
-- Building video and image processing infrastructure for vision-driven systems,
-- Designing computer vision–ready pipelines with rich metadata extraction
-- Implementing media systems with retries, logging, summaries, and interactive debugging tools
-- Applying this infrastructure to real-world use cases,
-- Exploring cost-efficient ML deployment for batch and streaming perception workloads. etc.
-
 ---
 ## Core Expertise
 
