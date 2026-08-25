@@ -1,41 +1,38 @@
 <p align="center">
 <a href="https://github.com/chibuezedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software/ML+Engineer+%7C+ML+Researcher;AI/ML+%7C+Bots+%7C+AR/VR+%7C+Cloud+%7C+Web+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software%2FML+Engineer;AI%2FML+%7C+Bots+%7C+AR%2FVR+%7C+Cloud+%7C+Web+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
-    
 <br />
 <br />
-
 ---
-## About Me
-
-I’m a Software & Machine Learning Engineer with 4+ years of experience building production-grade, data-driven systems, including scalable backend services, cloud native tools, ML pipelines and computer vision models, and automation tools.
-
-I specialize in:
-- Enterprise Software development (problems → product)
-- Turning machine learning research into real products
-- Designing reliable, auditable backend systems
-- Building cost-efficient ML infrastructure and automation pipelines
-- Working at the intersection of ML, systems engineering, and product
-
+## Hey, I'm Paul 👋
+ 
+I build software — mostly backend systems, ML pipelines, and computer vision models that actually ship. Four-plus years in, and I still enjoy the part where a research idea turns into something people can use.
+ 
+A few things I care about:
+- Taking a messy problem and turning it into a working product
+- Getting ML models out of notebooks and into production
+- Backend systems that are easy to reason about and don't fall over
+- Infrastructure that doesn't waste money
+- The overlap between ML, systems work, and actual product decisions
 ---
-## Core Expertise
-
-**Languages**: C++, Python, Rust, TypeScript, JavaScript 
-
-**Machine Learning & CV**: PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib, Colab, Hugginface
-
-**Backend & Systems**: Python, Rust, Node.js, TypeScript, JavaScript, FastAPI, Django, NestJS, Express
-
-**Frontend**: NextJS, React, HTML, CSS
-
-**Infrastructure & DevOps**: Docker, Kubernetes, AWS, GCP, AZURE, Linux, CI/CD
-
+## What I work with
+ 
+**Languages**: C++, Python, Rust, TypeScript, JavaScript
+ 
+**ML / Computer Vision**: PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib, Colab, Hugging Face
+ 
+**Backend**: Python, Rust, Node.js, TypeScript, FastAPI, Django, NestJS, Express
+ 
+**Frontend**: Next.js, React, HTML, CSS
+ 
+**Infra / DevOps**: Docker, Kubernetes, AWS, GCP, Azure, Linux, CI/CD
+ 
 **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
-
+ 
 ---
-### Public Profiles:
-
+### Find me here:
+ 
 <a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
@@ -54,18 +51,13 @@ I specialize in:
 <a href="https://wakatime.com/@0957be2e-3a2d-403f-b8bf-8035cca3d762">
   <img src="https://wakatime.com/badge/user/0957be2e-3a2d-403f-b8bf-8035cca3d762.svg" alt="Total time coded since Apr 30 2022" />
 </a>
-
 <br/>
 <a href="https://github.com/chibuezedev">
     <img src="https://github-stats-alpha.vercel.app/api?username=chibuezedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
-
 </p>
-
 <br />
-
-### Languages and Tools:
+### Tools I reach for most:
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -98,24 +90,20 @@ I specialize in:
 <img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
-
 <br />
 <br />
-
 ---
 <details>
-<summary>📈 Stats</summary>
+<summary>📈 GitHub stats, if you're curious</summary>
 <br>
-My Github Stats
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chibuezedev&theme=dracula) 
-
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chibuezedev&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chibuezedev&theme=dracula)
-
+ 
 </details>
-
 <p>
  <a href="https://github.com/chibuezedev">
 <img src="https://komarev.com/ghpvc/?username=chibuezedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
 </p>
+ 
