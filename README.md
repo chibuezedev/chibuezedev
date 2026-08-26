@@ -32,7 +32,7 @@
 
 ## Hey, I'm Paul 👋
 
-I build software — mainly backend systems, ML pipelines, and computer vision models that ship. I enjoy taking research ideas and turning them into reliable products.
+I build software, mainly backend systems, ML pipelines, and computer vision models that ship. I enjoy taking research ideas and turning them into reliable products.
 
 I care about:
 
@@ -46,8 +46,7 @@ I care about:
 
 ## What I work with
 
-### Languages
-C++, Python, Rust, TypeScript, JavaScript
+### Languages: C++, Python, Rust, TypeScript, JavaScript
 
 ### Machine Learning & Computer Vision
 PyTorch · TensorFlow · YOLO · NumPy · Pandas · Matplotlib · Colab · Hugging Face
