@@ -1,104 +1,121 @@
 <p align="center">
-  <a href="https://github.com/chibuezedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=100&multiline=true&width=680&height=90&lines=Paul+Chibueze;Software%2FML+Engineer;AI%2FML+%7C+Bots+%7C+AR%2FVR" alt="typing"/>
-  </a>
+<a href="https://github.com/chibuezedev">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software/ML+Engineer+%7C+ML+Researcher;AI/ML+%7C+Bots+%7C+AR/VR+%7C+Cloud+%7C+Web+%7C+Computer+Vision" alt="Typing SVG" />
+</a>
+    
+<br />
+<br />
 
-  <p>
-    <a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
-      <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" alt="CV">
-    </a>
-    <a href="https://www.linkedin.com/in/paul-chibueze/">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:chibuezedeveloper@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://medium.com/@paulchibueze" target="_blank">
-      <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=Medium&logoColor=white">
-    </a>
-    <a href="https://twitter.com/chibuezedev" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-  </p>
+---
+## About Me
 
-  <p>
-    <a href="https://github.com/chibuezedev">
-      <img src="https://github-stats-alpha.vercel.app/api?username=chibuezedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub stats">
-    </a>
-  </p>
+I’m a Software & Machine Learning Engineer with 4+ years of experience building production-grade, data-driven systems, including scalable backend services, cloud native tools, ML pipelines and computer vision models, and automation tools.
+
+I specialize in:
+- Enterprise Software development (problems → product)
+- Turning machine learning research into real products
+- Designing reliable, auditable backend systems
+- Building cost-efficient ML infrastructure and automation pipelines
+- Working at the intersection of ML, systems engineering, and product
+
+---
+## Core Expertise
+
+**Languages**: C++, Python, Rust, TypeScript, JavaScript 
+
+**Machine Learning & CV**: PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib, Colab, Hugginface
+
+**Backend & Systems**: Python, Rust, Node.js, TypeScript, JavaScript, FastAPI, Django, NestJS, Express
+
+**Frontend**: NextJS, React, HTML, CSS
+
+**Infrastructure & DevOps**: Docker, Kubernetes, AWS, GCP, AZURE, Linux, CI/CD
+
+**Databases**: MongoDB, MySQL, Firebase, PostgreSQL
+
+---
+### Public Profiles:
+
+<a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/paul-chibueze/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:chibuezedeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://medium.com/@paulchibueze' target="_blank">
+    <img alt='Medium' src='https://img.shields.io/badge/Medium-12100E?style=flat&logo=Medium&logoColor=white'>
+</a>
+<a href="https://twitter.com/chibuezedev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white">
+</a>
+<a href="https://wakatime.com/@0957be2e-3a2d-403f-b8bf-8035cca3d762">
+  <img src="https://wakatime.com/badge/user/0957be2e-3a2d-403f-b8bf-8035cca3d762.svg" alt="Total time coded since Apr 30 2022" />
+</a>
+
+<br/>
+<a href="https://github.com/chibuezedev">
+    <img src="https://github-stats-alpha.vercel.app/api?username=chibuezedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+
 </p>
 
----
+<br />
 
-## Hey, I'm Paul 👋
+### Languages and Tools:
+<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" />
+<img align="left" alt="nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="padding-right:10px;"/>       
+<img align="left" alt="express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="css3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="kubernetes" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;"/>       
+<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="amazonwebservices" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="googlecloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>      
+<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 
-I build software, mainly backend systems, ML pipelines, and computer vision models that ship. I enjoy taking research ideas and turning them into reliable products.
-
-I care about:
-
-- Turning messy problems into working products
-- Getting ML models out of notebooks and into production
-- Building backend systems that are easy to reason about and resilient
-- Cost-efficient infrastructure
-- The intersection of ML, systems engineering, and product decisions
-
----
-
-## What I work with
-
-### Languages: 
-C++ · Python · Rust · TypeScript · JavaScript
-
-### Machine Learning & Computer Vision
-PyTorch · TensorFlow · YOLO · NumPy · Pandas · Matplotlib · Colab · Hugging Face
-
-### Backend
-FastAPI · Django · Node.js · NestJS · Express · Rust
-
-### Frontend
-Next.js · React · HTML · CSS
-
-### Infra / DevOps
-Docker · Kubernetes · AWS · GCP · Azure · Linux · CI/CD
-
-### Databases
-PostgreSQL · MongoDB · MySQL · Firebase
-
----
-
-## Tools I reach for most
-
-<p align="left">
-  <img alt="C++" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin-right:8px;"/>
-  <img alt="Python" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right:8px;"/>
-  <img alt="JavaScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right:8px;"/>
-  <img alt="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="margin-right:8px;"/>
-  <img alt="Rust" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="margin-right:8px;"/>
-  <img alt="Node.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin-right:8px;"/>
-  <img alt="Docker" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin-right:8px;"/>
-  <img alt="Kubernetes" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="margin-right:8px;"/>
-  <img alt="PyTorch" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="margin-right:8px;"/>
-  <img alt="TensorFlow" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="margin-right:8px;"/>
-  <img alt="Postgres" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin-right:8px;"/>
-  <img alt="MongoDB" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin-right:8px;"/>
-</p>
+<br />
+<br />
 
 ---
-
 <details>
-<summary>📈 GitHub stats & activity</summary>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chibuezedev&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chibuezedev&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chibuezedev&theme=dracula)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chibuezedev&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chibuezedev&theme=dracula)
 
 </details>
 
-<p align="center">
-  <a href="https://github.com/chibuezedev">
-    <img src="https://komarev.com/ghpvc/?username=chibuezedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="profile views"/>
-  </a>
+<p>
+ <a href="https://github.com/chibuezedev">
+<img src="https://komarev.com/ghpvc/?username=chibuezedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
 </p>
