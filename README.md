@@ -46,7 +46,8 @@ I care about:
 
 ## What I work with
 
-### Languages: C++, Python, Rust, TypeScript, JavaScript
+### Languages: 
+C++ · Python · Rust · TypeScript · JavaScript
 
 ### Machine Learning & Computer Vision
 PyTorch · TensorFlow · YOLO · NumPy · Pandas · Matplotlib · Colab · Hugging Face
