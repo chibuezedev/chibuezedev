@@ -1,121 +1,33 @@
-<p align="center">
-<a href="https://github.com/chibuezedev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Paul+Chibueze;Software/ML+Engineer+%7C+ML+Researcher;AI/ML+%7C+Bots+%7C+AR/VR+%7C+Cloud+%7C+Web+%7C+Computer+Vision" alt="Typing SVG" />
-</a>
-    
-<br />
-<br />
+# Hi, I'm Paul 👋
 
----
-## About Me
+I build the plumbing that keeps software running, and sometimes the models that run on top of it.
 
-I’m a Software & Machine Learning Engineer with 4+ years of experience building production-grade, data-driven systems, including scalable backend services, cloud native tools, ML pipelines and computer vision models, and automation tools.
+Right now I'm a software engineer at **WhiteSky Cloud**, a Belgian sovereign cloud provider, working on the layer underneath customer VMs: backups, healthchecks, high availability, and the edge cases that only show up on a busy production node. Before that I spent a few years shipping backend services, ML pipelines and computer vision models, and I still keep one foot in ML research.
 
-I specialize in:
-- Enterprise Software development (problems → product)
-- Turning machine learning research into real products
-- Designing reliable, auditable backend systems
-- Building cost-efficient ML infrastructure and automation pipelines
-- Working at the intersection of ML, systems engineering, and product
+I like problems where the unglamorous parts matter: retries, quotas, audit trails, and what happens when the network drops halfway through a job.
 
----
-## Core Expertise
+### What I'm building
 
-**Languages**: C++, Python, Rust, TypeScript, JavaScript 
+- **[Mashintoch](https://mashintoch.com)**: my computer vision company, building tools that help machines see and understand the world, including Chatterly, an AI co-host that combines vision with conversation.
+- **[horasis](https://github.com/Mashintoch/horasis)**: a Python computer vision SDK with tiered, API-key based access and pluggable model backends. v1.0 is out on PyPI.
+- Notes on what I learn along the way, over on [Medium](https://medium.com/@paulchibueze).
 
-**Machine Learning & CV**: PyTorch, TensorFlow, YOLO, NumPy, Pandas, Matplotlib, Colab, Hugginface
+### What I reach for
 
-**Backend & Systems**: Python, Rust, Node.js, TypeScript, JavaScript, FastAPI, Django, NestJS, Express
-
-**Frontend**: NextJS, React, HTML, CSS
-
-**Infrastructure & DevOps**: Docker, Kubernetes, AWS, GCP, AZURE, Linux, CI/CD
-
-**Databases**: MongoDB, MySQL, Firebase, PostgreSQL
-
----
-### Public Profiles:
-
-<a href="https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-<a href="https://www.linkedin.com/in/paul-chibueze/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:chibuezedeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href='https://medium.com/@paulchibueze' target="_blank">
-    <img alt='Medium' src='https://img.shields.io/badge/Medium-12100E?style=flat&logo=Medium&logoColor=white'>
-</a>
-<a href="https://twitter.com/chibuezedev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white">
-</a>
-<a href="https://wakatime.com/@0957be2e-3a2d-403f-b8bf-8035cca3d762">
-  <img src="https://wakatime.com/badge/user/0957be2e-3a2d-403f-b8bf-8035cca3d762.svg" alt="Total time coded since Apr 30 2022" />
-</a>
-
-<br/>
-<a href="https://github.com/chibuezedev">
-    <img src="https://github-stats-alpha.vercel.app/api?username=chibuezedev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-
-</p>
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" />
-<img align="left" alt="nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="padding-right:10px;"/>       
-<img align="left" alt="express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="css3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
-<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="kubernetes" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;"/>       
-<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="amazonwebservices" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="googlecloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>      
-<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
----
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chibuezedev&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chibuezedev&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chibuezedev&theme=dracula)
-
-</details>
+Python and Rust for systems work, TypeScript and NestJS for APIs, PyTorch and YOLO for vision. Kubernetes, Docker, Linux and CI pipelines for everything around them.
 
 <p>
- <a href="https://github.com/chibuezedev">
-<img src="https://komarev.com/ghpvc/?username=chibuezedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12" alt="paul" /></a>
+  <img src="https://skillicons.dev/icons?i=py,rust,ts,nodejs,nestjs,pytorch,kubernetes,docker,linux,gitlab&perline=10" alt="Python, Rust, TypeScript, Node.js, NestJS, PyTorch, Kubernetes, Docker, Linux, GitLab" />
 </p>
+
+### Say hi
+
+I'm happy to talk about cloud infrastructure, turning ML research into something people can actually use, or anything you saw in my repos.
+
+[Email](mailto:chibuezedeveloper@gmail.com) · [LinkedIn](https://www.linkedin.com/in/paul-chibueze/) · [X / Twitter](https://twitter.com/chibuezedev) · [CV](https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing)
+
+<details>
+<summary>GitHub activity</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=chibuezedev&show_icons=true&hide_border=true&theme=transparent" alt="Paul's GitHub stats" />
+</details>
