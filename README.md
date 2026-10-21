@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋
 
-I'm a Software and cloud infrastructure engineer. I build distributed systems, pipelines and networks that run on-prem and in the cloud, including the infrastructure that serves ML models in production. I also keep one foot in ML research and currently MSc (AI) @ UNIZIK.
+I'm a Software and cloud infrastructure engineer. I build distributed systems, pipelines and networks that run on-prem and in the cloud, including the infrastructure that serves ML models in production. I also do ML research and currently MSc (AI) @ UNIZIK.
 
 I like problems where the unglamorous parts matter: retries, quotas, audit trails, and what happens when the network drops halfway through a job.
 
