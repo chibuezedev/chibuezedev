@@ -12,10 +12,10 @@ I like problems where the unglamorous parts matter: retries, quotas, audit trail
 
 ### What I reach for
 
-Rust, Python and C++ for systems work, Node.js and NestJS for APIs, PyTorch for models. Kubernetes, Docker, Linux and CI pipelines for everything around them.
-
+Rust, Python and C++ for systems work, TypeScript, JavaScript, Node.js and NestJS for APIs, PyTorch for models. Kubernetes, Docker, Linux and CI pipelines for everything around them.
+ 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,py,cpp,nodejs,nestjs,pytorch,kubernetes,docker,linux,gitlab&perline=10" alt="Rust, Python, C++, Node.js, NestJS, PyTorch, Kubernetes, Docker, Linux, GitLab" />
+  <img src="https://skillicons.dev/icons?i=rust,py,cpp,ts,js,nodejs,nestjs,pytorch,kubernetes,docker,linux,gitlab&perline=12" alt="Rust, Python, C++, TypeScript, JavaScript, Node.js, NestJS, PyTorch, Kubernetes, Docker, Linux, GitLab" />
 </p>
 
 Away from the keyboard, I'm usually jogging or at the gym.
