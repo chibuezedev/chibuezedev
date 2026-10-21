@@ -6,7 +6,7 @@ I like problems where the unglamorous parts matter: retries, quotas, audit trail
 
 ### What I'm building
 
-- **[Mashintoch](https://mashintoch.com)**: my computer vision company, building tools that help machines see and understand the world, including Chatterly, an AI co-host that combines vision with conversation.
+- **[Mashintoch](https://mashintoch.com)**: my computer vision company, building tools that help machines see and understand the world, including [PerceptOS](https://perceptos.mashintoch.com), a developer API for object detection, OCR, classification and moderation, and Chatterly, an AI co-host that combines vision with conversation.
 - **[horasis](https://github.com/Mashintoch/horasis)**: a Python computer vision SDK with tiered, API-key based access and pluggable model backends. v1.0 is out on PyPI.
 - Notes on what I learn along the way, over on [Medium](https://medium.com/@paulchibueze).
 
