@@ -1,8 +1,8 @@
 # Hi, I'm Paul 👋
 
-I build the plumbing that keeps software running, and sometimes the models that run on top of it.
+I'm a backend and cloud infrastructure engineer. I build distributed systems, pipelines and networks that run on-prem and in the cloud, including the infrastructure that serves ML models in production.
 
-Right now I'm a software engineer at **WhiteSky Cloud**, a Belgian sovereign cloud provider, working on the layer underneath customer VMs: backups, healthchecks, high availability, and the edge cases that only show up on a busy production node. Before that I spent a few years shipping backend services, ML pipelines and computer vision models, and I still keep one foot in ML research.
+Right now I'm at **WhiteSky Cloud**, a Belgian sovereign cloud provider, working on the layer underneath customer VMs: backups, healthchecks, high availability, and the edge cases that only show up on a busy production node. I also keep one foot in ML research.
 
 I like problems where the unglamorous parts matter: retries, quotas, audit trails, and what happens when the network drops halfway through a job.
 
@@ -14,17 +14,19 @@ I like problems where the unglamorous parts matter: retries, quotas, audit trail
 
 ### What I reach for
 
-Python and Rust for systems work, TypeScript and NestJS for APIs, PyTorch and YOLO for vision. Kubernetes, Docker, Linux and CI pipelines for everything around them.
+Rust, Python and C++ for systems work, Node.js and NestJS for APIs, PyTorch for models. Kubernetes, Docker, Linux and CI pipelines for everything around them.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,rust,ts,nodejs,nestjs,pytorch,kubernetes,docker,linux,gitlab&perline=10" alt="Python, Rust, TypeScript, Node.js, NestJS, PyTorch, Kubernetes, Docker, Linux, GitLab" />
+  <img src="https://skillicons.dev/icons?i=rust,py,cpp,nodejs,nestjs,pytorch,kubernetes,docker,linux,gitlab&perline=10" alt="Rust, Python, C++, Node.js, NestJS, PyTorch, Kubernetes, Docker, Linux, GitLab" />
 </p>
+
+Away from the keyboard, I'm usually jogging or at the gym.
 
 ### Say hi
 
 I'm happy to talk about cloud infrastructure, turning ML research into something people can actually use, or anything you saw in my repos.
 
-[Email](mailto:chibuezedeveloper@gmail.com) · [LinkedIn](https://www.linkedin.com/in/paul-chibueze/) · [X / Twitter](https://twitter.com/chibuezedev) · [CV](https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing)
+chibuezedeveloper [at] gmail [dot] com · [LinkedIn](https://www.linkedin.com/in/paul-chibueze/) · [X / Twitter](https://twitter.com/chibuezedev) · [CV](https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing)
 
 <details>
 <summary>GitHub activity</summary>
