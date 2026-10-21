@@ -24,7 +24,7 @@ Away from the keyboard, I'm usually jogging or at the gym.
 
 I'm happy to talk about cloud infrastructure, turning ML research into something people can actually use, or anything you saw in my repos.
 
-chibuezedeveloper [at] gmail [dot] com · [LinkedIn](https://www.linkedin.com/in/paul-chibueze/) · [X / Twitter](https://twitter.com/chibuezedev) · [CV](https://docs.google.com/document/d/1kNEIBL1I8UUVEy-VG_iIiLt77EhVwuOelZauZ077mk4/edit?usp=sharing)
+chibuezedeveloper [at] gmail [dot] com · [LinkedIn](https://www.linkedin.com/in/paul-chibueze/) · [X / Twitter](https://twitter.com/chibuezedev) · [CV](https://docs.google.com/document/d/1N16pop7CyBKfHO9c0qFZ96iR2rVsbMAW/edit?usp=sharing&ouid=112564769245958079965&rtpof=true&sd=true)
 
 <details>
 <summary>GitHub activity</summary>
