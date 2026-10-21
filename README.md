@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋
 
-I'm a backend and cloud infrastructure engineer. I build distributed systems, pipelines and networks that run on-prem and in the cloud, including the infrastructure that serves ML models in production.
+I'm a Software and cloud infrastructure engineer. I build distributed systems, pipelines and networks that run on-prem and in the cloud, including the infrastructure that serves ML models in production.
 
 Right now I'm at **WhiteSky Cloud**, a Belgian sovereign cloud provider, working on the layer underneath customer VMs: backups, healthchecks, high availability, and the edge cases that only show up on a busy production node. I also keep one foot in ML research.
 
