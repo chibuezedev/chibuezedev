@@ -2,7 +2,7 @@
 
 I'm a Software and cloud infrastructure engineer. I build distributed systems, pipelines and networks that run on-prem and in the cloud, including the infrastructure that serves ML models in production. I also do ML research and currently MSc (AI) @ UNIZIK.
 
-I like problems where the unglamorous parts matter: retries, quotas, audit trails, and what happens when the network drops halfway through a job.
+I like problems where the unglamorous parts matter: retries, quotas, audit trails, and what happens when the network drops halfway through a job. Im also curious on how we can make machines to see like humans through computer vision.
 
 ### What I'm building
 
